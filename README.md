@@ -1,2 +1,2 @@
 # streamlit
-streamlit visualization example of tips.scv
+streamlit example of yfinance (Apple dynamics), iris type prediction and tips visualization.
